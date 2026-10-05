@@ -17,8 +17,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-seo_title: "{title} | Smart Web Agency"
-seo_description: "Web agency a Roma dal 2013: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
+seo_title: "{title} | Trasporti merci su strada"
+seo_description: "Trasporti merci su strada con camion e autisti esperti: carichi completi e parziali, consegne puntuali, preventivo gratuito e risposta entro 24 ore."
 ---
 
 <style>
@@ -76,13 +76,13 @@ html[data-theme="dark"] .prj-home-more a{border-color:rgba(255,255,255,.3)}
 <!-- ===== MARTE END (html) ===== -->
 <canvas id="rete-cv" aria-hidden="true"></canvas>
 
-## Web Agency a Roma dal 2013, al fianco della crescita del tuo business.
+## Trasporti su strada puntuali, per merci che non possono aspettare.
 
-Comunicazione, web marketing e sviluppo di piattaforme digitali: aiutiamo imprenditori, start up e grandi aziende a crescere, nel privato come nella Pubblica Amministrazione. Ogni progetto nasce da un'analisi su misura del business e degli obiettivi, combinando creatività e concretezza per ottenere risultati misurabili.
+Mettiamo a disposizione camion e autisti esperti per spostare le tue merci da un punto all'altro, con tempi chiari e consegne affidabili. Che si tratti di un carico completo, di un collettame o di una consegna urgente, organizziamo il viaggio intorno al tuo carico e alle tue scadenze.
 
-Un team unico di professionisti coordina ogni fase, dalla strategia al risultato: siti, e-commerce, campagne, brand identity e applicativi su misura. Rispondiamo entro 24 ore, festivi esclusi, e la prima consulenza è gratuita.
+Un unico referente segue ogni trasporto, dal ritiro alla consegna, e ti tiene aggiornato lungo il percorso. Rispondiamo entro 24 ore, festivi esclusi, e il preventivo è gratuito e senza impegno.
 
-**Vuoi far crescere il tuo business?** Scrivici su WhatsApp o richiedi un preventivo: costruiamo insieme la soluzione giusta per te.
+**Hai una merce da spedire?** Scrivici su WhatsApp o richiedi un preventivo: ti proponiamo il mezzo e il prezzo giusti per il tuo carico.
 
 </div>
 
